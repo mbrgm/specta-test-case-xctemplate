@@ -34,6 +34,20 @@
 			<key>Type</key>
 			<string>text</string>
 		</dict>
+		<dict>
+			<key>Default</key>
+			<string>true</string>
+			<key>Description</key>
+			<string>Whether to include Expecta matchers</string>
+			<key>Identifier</key>
+			<string>expecta</string>
+			<key>Name</key>
+			<string>Include Expecta matchers</string>
+			<key>NotPersisted</key>
+			<true/>
+			<key>Type</key>
+			<string>checkbox</string>
+		</dict>
 	</array>
 	<key>Platforms</key>
 	<array>
